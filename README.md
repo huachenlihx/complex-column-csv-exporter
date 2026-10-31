@@ -1,6 +1,7 @@
 # Complex Column CSV Exporter
 
 [![npm](https://img.shields.io/npm/v/complex-column-csv-exporter.svg)](https://www.npmjs.com/package/complex-column-csv-exporter)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 React button and TypeScript utility for exporting tables with complex data (arrays and objects) to CSV.
 
