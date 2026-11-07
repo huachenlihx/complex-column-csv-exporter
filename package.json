@@ -28,7 +28,8 @@
     "export",
     "json",
     "complex-column-csv-exporter",
-    "table"
+    "table",
+    "huachenlihx"
   ],
   "author": "huachenlihx",
   "license": "MIT",
