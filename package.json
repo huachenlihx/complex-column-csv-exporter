@@ -1,6 +1,6 @@
 {
   "name": "complex-column-csv-exporter",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Typed React CSV export button and CSV Blob utility for tabular and complex-column data",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
